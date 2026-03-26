@@ -92,7 +92,7 @@ Customer support organisations rely on manual QA processes where supervisors ran
 ## 📁 Project Structure
 
 ```
--Customer-support-quality-auditor-/
+-aura_Q/
 │
 ├── clean-project/                          # React + Vite Frontend (SPA)
 │   ├── src/
